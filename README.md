@@ -4,5 +4,5 @@ I used Selenium to extract data on athletic shoes and customer reviews from Fini
 
 I was able to identify pricing, pipeline, and campaign strategies used by Adidas for successful market growth.
 
-For more information please visit: https://nycdatascience.com/blog/student-works/web-scraping/nike-vs-adidas-whos-winning/
+blog post: https://nycdatascience.com/blog/student-works/web-scraping/nike-vs-adidas-whos-winning/
 
